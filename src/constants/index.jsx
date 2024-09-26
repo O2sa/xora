@@ -2,23 +2,23 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "تكامل سهل",
+    title: "اعمل بذكاء وليس بجهد",
+    text: "مع Xora، أصبحت المهام المملة من الماضي. تعمل الأتمتة والعمليات الذكية على رفع إنتاجيتك إلى مستويات جديدة. إنها مثل الحصول على فنجان قهوة إضافي، ولكن بدون التوتر.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "شاهد العرض التجريبي",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "آمن وجدير بالثقة",
+    title: "نم براحة، نحن نحمي ظهرك",
+    text: "أمن بياناتك هو أولويتنا. مع تشفير متقدم وضوابط خصوصية قوية، يساعدك Xora في الحفاظ على معلوماتك آمنة ومحمية بشكل صارم.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "اقرأ المستندات",
     },
   },
 ];
@@ -27,130 +27,130 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "تحرير فيديو آلي باستخدام الذكاء الاصطناعي",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "تعاون مع فريقك",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "محرك سحابي سريع جدًا",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "دعم العملاء على مدار الساعة",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "ما مدى سهولة إعداد Xora؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "هل يمكنني دمج Xora مع منصات أخرى؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "كم مرة تضيفون محتوى جديدًا؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "ما هي سياسة الاسترداد؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "هل لديكم خطط للشركات؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "ماذا يحدث عندما تنفد مساحة التخزين؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "هل يمكنني ترقية خطتي؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "كيف أدعو فريقي؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "هل تقدمون تدريبًا للأفراد والفرق؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "لقد تم إغلاق حسابي، ماذا أفعل؟",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "بالطبع! ليس فقط يمكنك ترقية خطتك في أي وقت، بل ستحصل أيضًا على خصم تناسبي يمنحك أكبر قيمة لاشتراكك.",
   },
 ];
 
 export const plans = [
   {
     id: "0",
-    title: "Core",
+    title: "الأساسي",
     priceMonthly: 19,
     priceYearly: 12,
-    caption: "Best for solo creators",
+    caption: "الأفضل للمبدعين الفرديين",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "100 ميجابايت من التخزين السحابي",
+      "أكثر من 100 قالب استجابة",
+      "5 مشاريع",
+      "دعم على مدار الساعة",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
   {
     id: "1",
-    title: "Overdrive",
+    title: "القيادة القصوى",
     priceMonthly: 79,
     priceYearly: 59,
-    caption: "Most popular plan",
+    caption: "الخطة الأكثر شعبية",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "جميع ميزات الخطة الأساسية",
+      "1 تيرابايت تخزين إضافي",
+      "مشاريع غير محدودة",
+      "تحليلات",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
   },
   {
     id: "2",
-    title: "Team",
+    title: "الفرق",
     priceMonthly: 39,
     priceYearly: 29,
-    caption: "Exclusively for teams",
+    caption: "حصري للفرق",
     features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "جميع ميزات خطة القيادة القصوى",
+      "10 تيرابايت تخزين إضافي",
+      "خصم 50% لكل عضو",
+      "تعاون في الوقت الفعلي",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
@@ -160,51 +160,51 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
+    name: "جيسيكا سوندرز",
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "دعم عملاء Xora لا يُضاهى! إنهم مثل أبطال التقنية الخاصة بي، دائمًا موجودون عندما أحتاجهم.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
+    name: "مارك إريكسون",
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "كنت متشككًا في البداية، لكن الآن لا أستطيع تخيل عمليات المحتوى لدينا بدونها. إنها مؤثرة جدًا.",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
+    name: "ميلاني هيرست",
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "اعتماد هذا البرنامج كان سهلاً للغاية. لقد جعل المهام اليومية أسهل بكثير.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
+    name: "أليسيا باركر",
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "ميزة التحليلات تشبه وجود عراف شخصي. كانت ضرورية في توجيه قرارات أعمالنا.",
   },
   {
     id: "4",
-    name: "Becky Snider",
+    name: "بيكي سنيدر",
     role: "Floclips",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "انتقلت إلى Xora الشهر الماضي، وأنا بالفعل أرى النتائج. أفضل قرار لفريقنا!",
   },
   {
     id: "5",
-    name: "Jim Bradley",
+    name: "جيم برادلي",
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "زيادة الكفاءة لا يمكن إنكارها. لقد حولت هذه المنصة سير العمل لدينا إلى الأبد.",
   },
 ];
 
